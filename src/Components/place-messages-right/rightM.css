@@ -1,0 +1,12 @@
+.rightM_container {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+.rightM_container #getstarted {
+  font-size: 70px;
+}
+.rightM_container #about_getstarted {
+  font-size: 15px;
+  margin-left: 38px;
+}/*# sourceMappingURL=rightM.css.map */
